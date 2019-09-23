@@ -2,4 +2,4 @@
 Example for learning GitHub
 This will go well with this change.
 
-Not everything will be fixed in this branch
+I am changing the Read Me file
